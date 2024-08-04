@@ -433,16 +433,7 @@
 }
 /*** Footer End ***/
 
-.img-fluid1{
-    justify-content:end;
-    height: 350px;
-    width: 480px;
-}
-.img-fluid2{
-    justify-content: left;
-    height: 350px;
-    width: 450px;
-}
+
 /*** copyright Start ***/
 .copyright {
     border-top: 1px solid rgba(255, 255, 255, 0.08);
